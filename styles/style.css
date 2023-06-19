@@ -112,7 +112,6 @@ p {
 }
 
 .section_cover {
-  padding-top: 7px;
   padding-bottom: 30px;
   background-image: url(../images/cover.svg);
   background-position: center right;
@@ -129,7 +128,7 @@ p {
 }
 
 .intro {
-  padding-bottom: 38px; 
+  padding-bottom: 38px;
   display: flex;
   flex-direction: column;
   gap: 24px;
