@@ -128,11 +128,6 @@ p {
   text-align: center;
 }
 
-.intro_title_and_date {
-  color: #CCCCCC;
-  line-height: 120%;
-}
-
 .intro {
   padding-bottom: 38px; 
   display: flex;
@@ -144,8 +139,8 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: baseline;
-
+  color: #CCCCCC;
+  line-height: 120%;
 }
 
 .section_white_list {
