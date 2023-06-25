@@ -27,7 +27,7 @@ img {
 /* конец обнуления css */
 
 body {
-  margin: 0 auto; /* обнуление css */
+  margin: 0; /* обнуление css */
   font-family: Inter, sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -37,6 +37,7 @@ body {
 
 .header, .main, .footer {
   width: 360px;
+  margin: auto;
 }
 
 .paragraph { /* p */
@@ -98,6 +99,7 @@ body {
   font-weight: 400;
   font-size: 72px;
   line-height: 100%;
+  color: #fff;
 }
 
 .accent-span {
@@ -160,7 +162,7 @@ body {
   line-height: 115%;
 }
 
-.paragraph-big {
+.paragraph-intro {
   font-size: 20px;
   line-height: 135%;
 }
