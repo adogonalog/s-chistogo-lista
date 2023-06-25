@@ -84,6 +84,7 @@ body {
 }
 
 .section__cover {
+  padding-top: 7px;
   padding-bottom: 30px;
   background-image: url(../images/cover.svg);
   background-position: center right;
